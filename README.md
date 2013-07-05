@@ -1,2 +1,3 @@
 # Simple events calendar
-### a Sails application
+
+    sails lift
